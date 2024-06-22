@@ -35,7 +35,7 @@
                                     </backgroundConfiguration>
                                 </buttonConfiguration>
                                 <connections>
-                                    <action selector="buttonTouchUpInside:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pvG-PR-hd7"/>
+                                    <action selector="changeButtonAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pvG-PR-hd7"/>
                                 </connections>
                             </button>
                         </subviews>
